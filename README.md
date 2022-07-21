@@ -33,24 +33,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-
+- Flexbox
 ### What I learned
 
-I learn how to center block with position property.
+I learn how to center block with Flexbox.
 
 
 
 ```css
 .parent {
-  position: fixed;
-    top: 0;
-    left: 0;
-}
-.block {
-  position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 ```
 
@@ -60,10 +55,12 @@ I learn how to center block with position property.
 
 ## Author
 
-- Website - [Soyka Alexander](https://mrsoyka.github.io/Portfolio_FCC/)
-- Frontend Mentor - [@MrSoyka](https://www.frontendmentor.io/profile/MrSoyka)
-- GitHub - [@MrSoyka](https://github.com/MrSoyka)
+- Website - [Soyka Alexander](https://asoyka.github.io/Portfolio_FCC/)
+- Frontend Mentor - [@ASoyka](https://www.frontendmentor.io/profile/ASoyka)
+- GitHub - [@ASoyka](https://github.com/ASoyka)
 
 ## Acknowledgments
 
-Thanks to https://www.frontendmentor.io/.
+- Thanks to https://www.frontendmentor.io/.
+
+- Help [@ChamuMutezva](https://www.frontendmentor.io/profile/ChamuMutezva)
