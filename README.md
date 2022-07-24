@@ -56,7 +56,7 @@ I learn how to center block with Flexbox.
 ## Author
 
 - Website - [Soyka Alexander](https://asoyka.github.io/Portfolio_FCC/)
-- Frontend Mentor - [@ASoyka](https://www.frontendmentor.io/profile/ASoyka)
+- Frontend Mentor - [@ASoyka](https://www.frontendmentor.io/profile/MrSoyka)
 - GitHub - [@ASoyka](https://github.com/ASoyka)
 
 ## Acknowledgments
